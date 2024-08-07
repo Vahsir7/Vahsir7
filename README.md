@@ -22,6 +22,22 @@ Hey there! I am Rishav, an undergraduate student pursuing a Bachelor's of Techno
 
 I am dedicated to perfecting and sharpening my skills in machine learning and continuously enhancing my computer science journey.
 
+## Coding Journey 💻
+My passion for coding started with Java, which I initially learned in my higher secondary school. Since then, I have expanded my expertise to Python, a language I further honed during my studies at the Indian Institute of Technology, Madras. I am also proficient in C++, which I learned at Narula Institute of Technology.
+
+I am a quick learner and constantly strive to learn new concepts and technologies. This continuous learning approach helps me stay updated with the latest trends and advancements in the field of computer science.
+
+### Web Development 🌐
+I have experience creating web applications using frameworks such as Flask and Django. These frameworks have allowed me to build dynamic and scalable web applications, enhancing my understanding of web technologies and backend development.
+Currently i am working a web application to demonstrate the CRUD applications using flask framework. Link to project : <a href="https://github.com/Vahsir7/Confluence">Confluence (Flask Project)</a>
+
+## Data Science and Machine Learning 📊🤖
+My interest in data science and machine learning began during my coursework at IIT Madras. The concept of using mathematics to predict outcomes based on previous data fascinated me. The excellent teaching at IIT Madras played a significant role in nurturing this interest. 
+
+I have also gained insights from Microsoft Azure AI fundamentals courses, further enhancing my understanding of AI and machine learning. Currently, I am learning to use scikit-learn and actively participating in Kaggle competitions to apply my knowledge and improve my skills.
+
+I have also leant basic knowdlege about Exploratory Data Analysis and usage of python libraries for Machine learning as a project intern at Globsyn Technologies, West Bengal. Link to the project <a href="https://github.com/Vahsir7/EDA/tree/main/mobile_sales">Mobile sales prediction</a>
+
 ## Game Development 🎮
 
 I've embarked on the journey of game development as a hobby, driven by my passion for playing video games and the desire to bring my imaginative ideas to life. As I delved into this realm, I realized the immense technical knowledge and problem-solving skills it demands.

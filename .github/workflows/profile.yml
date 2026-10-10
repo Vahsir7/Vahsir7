@@ -1,0 +1,37 @@
+name: Generate profile graphics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark&color_snake=#64ffda&color_dots=#0b1a2e,#0f4c4a,#1f8a78,#3fc9a8,#64ffda
+
+      - name: Render contribution graph
+        run: python scripts/contrib_graph.py ${{ github.repository_owner }} dist/contributions.svg
+        env:
+          # PROFILE_TOKEN (a personal access token) sees private/org contributions; falls back to the repo token.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

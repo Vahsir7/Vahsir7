@@ -1,45 +1,30 @@
-<!--
-**Vahsir7/Vahsir7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/header.svg" alt="Rishav Bairagya — I build AI agents, automation and products that ship." width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.vahsir.in"><img src="https://api.iconify.design/lucide/globe.svg?color=%2364ffda&height=22" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rishavbairagya/"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%2364ffda&height=22" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:rishavbairagya@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%2364ffda&height=22" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=VokHp0kAAAAJ"><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2364ffda&height=22" alt="Google Scholar"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Rishav Bairagya
-<div align="center">
-⭐ <em>The magic you are searching for is the work you are avoiding</em> ⭐
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,go,fastapi,flask,react,postgres,mongodb,docker,aws,gcp,linux,unity,unreal&perline=14" alt="Tech stack"/>
+</p>
 
-## About Me 👦🏻
-Hello! I am Rishav, an undergraduate student pursuing a **Bachelor's in Science in Data Science and Programming** from the **Indian Institute of Technology, Madras**, as well as pursuing a **Bachelor's of Technology in Computer Science and Engineering** from **Narula Institute of Technology, Kolkata**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vahsir7/Vahsir7/output/contributions.svg" alt="Contribution graph" width="100%"/>
+</p>
 
-I am dedicated to perfecting and sharpening my skills in machine learning and continuously enhancing my computer science journey. I love tackling difficult challenges and learning from them.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vahsir7/Vahsir7/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Vahsir7/Vahsir7/output/snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
 
-## Coding Journey 💻
-My passion for coding started with Java, which I initially learned in my higher secondary school. Since then, I have expanded my expertise to Python, a language I further honed during my studies at the Indian Institute of Technology, Madras. I am also proficient in C++, which I learned at Narula Institute of Technology.
-
-I am a quick learner and constantly strive to learn new concepts and technologies. This continuous learning approach helps me stay updated with the latest trends and advancements in the field of computer science.
-
-### Web Development 🌐
-I have experience creating web applications using frameworks such as Flask and Django. These frameworks have allowed me to build dynamic and scalable web applications, enhancing my understanding of web technologies and backend development.
-Currently i am working a web application to demonstrate the CRUD applications using flask framework.
-
-## Data Science and Machine Learning 📊🤖
-My interest in data science and machine learning began during my coursework at IIT Madras. The concept of using mathematics to predict outcomes based on previous data fascinated me. The excellent teaching at IIT Madras played a significant role in nurturing this interest. I have also gained insights from *Microsoft Azure AI fundamentals courses*, further enhancing my understanding of AI and machine learning.
-
-## Game Development 🎮
-
-I've embarked on the journey of game development as a hobby, driven by my passion for playing video games and the desire to bring my imaginative ideas to life. As I delved into this realm, I realized the immense technical knowledge and problem-solving skills it demands.
-
-Game development has been a transformative experience for me, honing my problem-solving abilities, coding proficiency, and even introducing me to 3D modeling. I have experience in working with **Unity Engine**, **Unreal Engine** which requires **C#** and **C++** respectievely. I have made both 2D and 3D games while using them, creating some of my own assets using **Blender**.
-
-## Contact Me 🤙
-- [LinkedIn](https://www.linkedin.com/in/rishavbairagya/)
-- Email: rishavbairagya@gmail.com
+<p align="center">
+  I work on agentic systems, RAG and backend engineering, and I'm deepening my ML and system design fundamentals.<br/>
+  More about me and my work at <a href="https://www.vahsir.in">vahsir.in</a>.
+</p>
